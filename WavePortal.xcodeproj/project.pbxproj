@@ -10,6 +10,7 @@
 		0A2CA9602778B49E0036E265 /* WavePortalABI.json in Resources */ = {isa = PBXBuildFile; fileRef = 0A2CA95F2778B49E0036E265 /* WavePortalABI.json */; };
 		0A78C53D2778EF11003A5043 /* WavePortalDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A78C53C2778EF11003A5043 /* WavePortalDataSource.swift */; };
 		0A78C53F2778EF5F003A5043 /* Wave.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A78C53E2778EF5F003A5043 /* Wave.swift */; };
+		0A78C541277A155D003A5043 /* WavesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A78C540277A155D003A5043 /* WavesViewController.swift */; };
 		0AECAEEF2777860C0035EB89 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AECAEEE2777860C0035EB89 /* AppDelegate.swift */; };
 		0AECAEF12777860C0035EB89 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AECAEF02777860C0035EB89 /* SceneDelegate.swift */; };
 		0AECAEF32777860C0035EB89 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AECAEF22777860C0035EB89 /* ViewController.swift */; };
@@ -43,6 +44,7 @@
 		0A2CA95F2778B49E0036E265 /* WavePortalABI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = WavePortalABI.json; sourceTree = "<group>"; };
 		0A78C53C2778EF11003A5043 /* WavePortalDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WavePortalDataSource.swift; sourceTree = "<group>"; };
 		0A78C53E2778EF5F003A5043 /* Wave.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wave.swift; sourceTree = "<group>"; };
+		0A78C540277A155D003A5043 /* WavesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WavesViewController.swift; sourceTree = "<group>"; };
 		0AECAEEB2777860C0035EB89 /* WavePortal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WavePortal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AECAEEE2777860C0035EB89 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0AECAEF02777860C0035EB89 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 				0AECAEEE2777860C0035EB89 /* AppDelegate.swift */,
 				0AECAEF02777860C0035EB89 /* SceneDelegate.swift */,
 				0AECAEF22777860C0035EB89 /* ViewController.swift */,
+				0A78C540277A155D003A5043 /* WavesViewController.swift */,
 				0AECAEF42777860C0035EB89 /* Main.storyboard */,
 				0AECAEF72777860F0035EB89 /* Assets.xcassets */,
 				0AECAEF92777860F0035EB89 /* LaunchScreen.storyboard */,
@@ -281,6 +284,7 @@
 				0A78C53D2778EF11003A5043 /* WavePortalDataSource.swift in Sources */,
 				0AECAEEF2777860C0035EB89 /* AppDelegate.swift in Sources */,
 				0AECAEF12777860C0035EB89 /* SceneDelegate.swift in Sources */,
+				0A78C541277A155D003A5043 /* WavesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
